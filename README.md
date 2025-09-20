@@ -47,23 +47,23 @@
 ### 🛠️ Tech Stack
 
 #### 💻 Backend
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="20" height="20" style="vertical-align:middle" /> Java</br>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/spring.svg" alt="Spring Boot" width="20" height="20" style="vertical-align:middle" /> Spring Boot  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hibernate.svg" alt="Hibernate" width="20" height="20" style="vertical-align:middle" /> Hibernate  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" alt="MySQL" width="20" height="20" style="vertical-align:middle" /> MySQL  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/oracle.svg" alt="PL/SQL" width="20" height="20" style="vertical-align:middle" /> PL/SQL  
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="20" height="20" style="vertical-align:middle; filter: none;" /> Java  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/spring.svg" alt="Spring Boot" width="20" height="20" style="vertical-align:middle; fill:#6DB33F;" /> Spring Boot  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hibernate.svg" alt="Hibernate" width="20" height="20" style="vertical-align:middle; fill:#59666C;" /> Hibernate  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" alt="MySQL" width="20" height="20" style="vertical-align:middle; fill:#4479A1;" /> MySQL  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/oracle.svg" alt="PL/SQL" width="20" height="20" style="vertical-align:middle; fill:#F80000;" /> PL/SQL  
 
 #### 🎨 Frontend
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" alt="HTML5" width="20" height="20" style="vertical-align:middle" /> HTML5  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" alt="CSS3" width="20" height="20" style="vertical-align:middle" /> CSS3  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript" width="20" height="20" style="vertical-align:middle" /> JavaScript  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React" width="20" height="20" style="vertical-align:middle" /> React  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" alt="HTML5" width="20" height="20" style="vertical-align:middle; fill:#E34F26;" /> HTML5  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" alt="CSS3" width="20" height="20" style="vertical-align:middle; fill:#1572B6;" /> CSS3  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript" width="20" height="20" style="vertical-align:middle; fill:#F7DF1E;" /> JavaScript  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React" width="20" height="20" style="vertical-align:middle; fill:#61DAFB;" /> React  
 
 #### 🧪 Tools & Platforms
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" alt="Git" width="20" height="20" style="vertical-align:middle" /> Git  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="20" height="20" style="vertical-align:middle" /> GitHub  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postman.svg" alt="Postman" width="20" height="20" style="vertical-align:middle" /> Postman  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/eclipseide.svg" alt="Eclipse" width="20" height="20" style="vertical-align:middle" /> Eclipse  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" alt="Git" width="20" height="20" style="vertical-align:middle; fill:#F05032;" /> Git  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="20" height="20" style="vertical-align:middle; fill:#181717;" /> GitHub  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postman.svg" alt="Postman" width="20" height="20" style="vertical-align:middle; fill:#FF6C37;" /> Postman  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/eclipseide.svg" alt="Eclipse" width="20" height="20" style="vertical-align:middle; fill:#2C2255;" /> Eclipse  
 
 ---
 
@@ -73,13 +73,13 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/meghana-l-ba593622b" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="vertical-align:middle" /> LinkedIn
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="vertical-align:middle; fill:#0077B5;" /> LinkedIn
   </a>
   <a href="https://github.com/Meghashyaama" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" height="30" style="vertical-align:middle" /> GitHub
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" height="30" style="vertical-align:middle; fill:#181717;" /> GitHub
   </a>
   <a href="https://www.instagram.com/megha_shyama?igsh=aGg3dnMwNm5xMnNy" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="30" height="30" style="vertical-align:middle" /> Instagram
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="30" height="30" style="vertical-align:middle; fill:#E4405F;" /> Instagram
   </a>
 </p>
 
