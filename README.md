@@ -47,7 +47,7 @@
 ### 🛠️ Tech Stack
 
 #### 💻 Backend
-<img src="C:\Radhakrishna\java full stack\download.jpeg" alt="Java" width="20" height="20" style="vertical-align:middle" /> Java  
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="20" height="20" style="vertical-align:middle" /> Java
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/spring.svg" alt="Spring Boot" width="20" height="20" style="vertical-align:middle" /> Spring Boot  
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hibernate.svg" alt="Hibernate" width="20" height="20" style="vertical-align:middle" /> Hibernate  
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" alt="MySQL" width="20" height="20" style="vertical-align:middle" /> MySQL  
