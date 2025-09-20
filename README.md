@@ -47,23 +47,23 @@
 ### 🛠️ Tech Stack
 
 #### 💻 Backend
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="20" height="20" style="vertical-align:middle; filter: none;" /> Java  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/spring.svg" alt="Spring Boot" width="20" height="20" style="vertical-align:middle; fill:#6DB33F;" /> Spring Boot  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hibernate.svg" alt="Hibernate" width="20" height="20" style="vertical-align:middle; fill:#59666C;" /> Hibernate  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" alt="MySQL" width="20" height="20" style="vertical-align:middle; fill:#4479A1;" /> MySQL  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/oracle.svg" alt="PL/SQL" width="20" height="20" style="vertical-align:middle; fill:#F80000;" /> PL/SQL  
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> Java  
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" /> Spring Boot  
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" /> Hibernate  
+<img src="https://img.shields.io/badge/MySQL-003545?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> MySQL  
+<img src="https://img.shields.io/badge/PL--SQL-464646?style=for-the-badge&logo=oracle&logoColor=white" alt="PL SQL" /> PL/SQL  
 
 #### 🎨 Frontend
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" alt="HTML5" width="20" height="20" style="vertical-align:middle; fill:#E34F26;" /> HTML5  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" alt="CSS3" width="20" height="20" style="vertical-align:middle; fill:#1572B6;" /> CSS3  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript" width="20" height="20" style="vertical-align:middle; fill:#F7DF1E;" /> JavaScript  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React" width="20" height="20" style="vertical-align:middle; fill:#61DAFB;" /> React  
+<img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> HTML5  
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> CSS3  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> JavaScript  
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> React  
 
 #### 🧪 Tools & Platforms
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" alt="Git" width="20" height="20" style="vertical-align:middle; fill:#F05032;" /> Git  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="20" height="20" style="vertical-align:middle; fill:#181717;" /> GitHub  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postman.svg" alt="Postman" width="20" height="20" style="vertical-align:middle; fill:#FF6C37;" /> Postman  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/eclipseide.svg" alt="Eclipse" width="20" height="20" style="vertical-align:middle; fill:#2C2255;" /> Eclipse  
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> Git  
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> GitHub  
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /> Postman  
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse" /> Eclipse  
 
 ---
 
@@ -73,16 +73,15 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/meghana-l-ba593622b" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="vertical-align:middle; fill:#0077B5;" /> LinkedIn
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Meghashyaama" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" height="30" style="vertical-align:middle; fill:#181717;" /> GitHub
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.instagram.com/megha_shyama?igsh=aGg3dnMwNm5xMnNy" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="30" height="30" style="vertical-align:middle; fill:#E4405F;" /> Instagram
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-
 ---
 
 ### 🔍 Fun Facts About Me
